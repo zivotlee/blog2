@@ -15,5 +15,22 @@
     "preview": {},
     "last_modified": "2022-05-10T14:44:08+00:00",
     "input_file": "welcome.knit.md"
+  },
+  {
+    "path": "posts/2022-05-10-kakakka/",
+    "title": "kakakka",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Nora Jones",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2022-05-10",
+    "categories": [],
+    "contents": "\nDistill is a publication format for scientific and technical writing,\nnative to the web.\nLearn more about using Distill at https://rstudio.github.io/distill.\n\n\n\n",
+    "preview": {},
+    "last_modified": "2022-05-10T14:57:10+00:00",
+    "input_file": "kakakka.knit.md"
   }
 ]
